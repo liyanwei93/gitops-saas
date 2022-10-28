@@ -1,0 +1,6 @@
+name: "Merge pull requests (automerge-action)"
+description: "Automatically merge pull requests that are ready"
+branding:
+  icon: "git-pull-request"
+  color: "blue"
+ 
